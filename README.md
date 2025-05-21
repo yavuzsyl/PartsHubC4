@@ -9,11 +9,8 @@ This repository contains a complete **C4 model** of **PartsHub**, a B2B marketpl
 | Path                       | Description                                                                                                        |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | `partshub-marketplace.dsl` | Main Structurizr DSL workspace (System Context, Container, Component diagrams, plus a placeholder Code‑level view) |
-| `README.md`                | You are here – usage instructions & project overview                                                               |
 
 > **Heads‑up :** If you’re new to C4, check out [https://c4model.com](https://c4model.com) for a 5‑minute primer.
-
----
 
 ---
 
